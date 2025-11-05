@@ -1,4 +1,4 @@
-# �� Advanced Color Palette Generator
+# 🌈 Advanced Color Palette Generator
 
 A beautiful and modern Flutter app for generating color palettes with multiple color scheme types. Features a stunning glassmorphism design with a sage green theme.
 
@@ -48,32 +48,6 @@ A beautiful and modern Flutter app for generating color palettes with multiple c
 
 _Add screenshots of your app here_
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (latest stable version)
-- Dart SDK
-- Android Studio / VS Code with Flutter extensions
-- An iOS simulator, Android emulator, or physical device
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/p014.git
-   cd p014
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
 
 ## 📖 Usage
 
@@ -116,12 +90,6 @@ _Add screenshots of your app here_
 - **Material Design 3** - Design system
 - **HSL Color Model** - For advanced color generation
 
-## 📁 Project Structure
-
-```
-lib/
-  └── main.dart          # Main application file with all UI and logic
-```
 
 ## 🎨 Color Scheme
 
@@ -130,49 +98,12 @@ The app uses a sage green theme with the following colors:
 - Light: `#E8F5E9`, `#C8E6C9`, `#A5D6A7`
 - Dark: `#6B8E4F`, `#4A5F3A`
 
-## 🔧 Development
 
-### Running Tests
-
-```bash
-flutter test
-```
-
-### Building for Release
-
-**Android:**
-```bash
-flutter build apk --release
-```
-
-**iOS:**
-```bash
-flutter build ios --release
-```
-
-**Web:**
-```bash
-flutter build web --release
-```
-
-## �� Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/p014/issues).
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Kanizadev**
+- GitHub: [@kanizadev](https://github.com/kanizadev)
 
 ## 🙏 Acknowledgments
 
