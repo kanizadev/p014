@@ -46,7 +46,7 @@ A beautiful and modern Flutter app for generating color palettes with multiple c
 
 ## 📸 Screenshots
 
-_Add screenshots of your app here_
+<img src="https://raw.githubusercontent.com/kanizadev/p014/refs/heads/main/1.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p014/refs/heads/main/2.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p014/refs/heads/main/3.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p014/refs/heads/main/4.png" hight=446 width=243 />
 
 
 ## 📖 Usage
